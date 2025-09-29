@@ -6,3 +6,5 @@ Tronbyt is an ecosystem replacement for Tidbyt. It consists of:
 * [pixlet](https://github.com/tronbyt/pixlet) - a maintained fork of Tidbyt's pixlet which adds functionality and can be used as a library
 * [tronberry](https://github.com/tronbyt/tronberry) - a Tronbyt client for Raspberry Pi devices
 * [homebrew-tronbyt](https://github.com/tronbyt/homebrew-tronbyt) - Tronbyt Homebrew tap
+
+For more information, including getting started instructions, see [the wiki](https://github.com/tronbyt/server/wiki).
