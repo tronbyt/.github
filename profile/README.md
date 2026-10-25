@@ -8,4 +8,4 @@ Tronbyt is an ecosystem replacement for Tidbyt. It consists of:
 * [TronbytAssistant](https://github.com/tronbyt/TronbytAssistant) - Home Assistant integration
 * [HATronbytApp](https://github.com/kaffolder7/ha-app-tronbyt-server)
 
-For more information, including getting started instructions, see [the wiki](https://github.com/tronbyt/server/wiki).
+For more information, including getting started instructions, see [the docs](https://tronbyt.com/).
